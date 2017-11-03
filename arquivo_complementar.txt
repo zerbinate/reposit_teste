@@ -1,1 +1,1 @@
-<?php echo "complementação do arquivo"?>
+<?php echo "complementação do arquivo"; ?>
