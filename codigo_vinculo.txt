@@ -1,1 +1,4 @@
-<?php echo "código de desenvolvimento para a funcionalidade"?>
+?php 
+	echo "código de desenvolvimento para a funcionalidade";
+
+?>
